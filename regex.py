@@ -28,3 +28,5 @@ print(s)
 # 替换目标字符串替换几处
 s = re.subn(r':','-',s,1)
 print(s)
+
+print("github修改内容")
