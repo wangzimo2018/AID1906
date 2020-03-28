@@ -30,3 +30,5 @@ s = re.subn(r':','-',s,1)
 print(s)
 
 print("github修改内容")
+
+print("fetch 拉取代码")
